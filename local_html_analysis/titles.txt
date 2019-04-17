@@ -1,0 +1,58 @@
+Weekend Lectures
+021619 week1 Lecture - BA Class overview
+021619 week1 Lecture - SQL I
+021719 week1 Lab - SQL II
+022319 week2 Lecture - overview of business process
+022419 week2 Lab - SQL Advanced
+030219 week3 Lecture - Marketing Mix Model
+030319 week 3 Lab - Excel 2
+week 4 Lecture - supply chain management - 来自上一期
+031019 week 4 Lab - segmentation, targeting, positioning
+031619 week 5 Lecture - Business Development - Lead Generation
+031719 week 5 Lab - RFM&CRM
+032319 week 6 Lecture - AB test & UX
+032419 week 6 Lab - Linear Regression
+033019 week 7 Lecture - E-commerce Analytics
+033119 week 7 Lab - Logistic Regression
+040619 week 8 Lecture - Data Visualization with Tableau
+040619 R语言回顾与加强
+040719 week 8 Lab - Classification & Clustering
+041319 week 9 Lecture - Gaming Analytics
+041319 R语言回顾与加强 2
+041419 week 9 Lab - Pricing & Survey
+Weekday Knowledge Class
+021819 week1 Tech - Excel 1
+021919 week1 Tech - R Basic I&II
+022519 week2 Tech - R Basic III
+022619 week2 Tech - R apply functions
+030419 week 3 Tech - R tidyr dplyr
+030519 week 3 - SQL window function
+031119 week 4 Tech - R data table
+031219 week 4 Tech - R ggplot
+031819 week 5 Tech - Basic Probability and Statistics
+031919 week 5 Tech - Exploratory Data Analysis
+032519 week 6 Tech - SQL Interview Question Basic
+032619 week 6 Tech - SQL Interview Question Advanced
+040119 week 7 Tech - New User Booking Project Review I
+040219 week 7 Tech - New User Booking Project Review II
+040819 week 8 Tech - Tableau hands on Dashboards
+040919 week 8 Tech - Gaming Project Review I
+040919 week 8 - MySQL Window Function Review
+041519 week 9 Tech - Gaming Project Review II
+TA Sessions
+022019 week 1 TA office hour
+022719 week2 TA office hour
+030619 week 3 TA office hour
+031319 week 4 TA office hour
+032019 week 5 TA office hour
+032719 week 6 TA office hour
+040319 week 7 TA office hour
+041019 week 8 TA office hour
+First Week
+#1_Career 1903
+#2_Career 1903
+Second Week
+#3_Career 1903
+Third Week
+#4_Career 1903
+#5_Career 1903
